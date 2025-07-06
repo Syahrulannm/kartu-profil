@@ -26,6 +26,10 @@ Proyek ini dibuat sebagai bagian dari roadmap belajar Front-End Developer pemula
 - HTML
 - CSS
 
+## 🚀 Preview 
+
+[🔗 Live Demo via Netlify](https://kartu-profil-namsy.netlify.app)
+
 ## Catatan
 
 Akan ditingkatkan di masa depan (tampilan, fitur, dll)
